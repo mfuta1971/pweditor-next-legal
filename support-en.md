@@ -7,4 +7,4 @@ Contact:
 Email: devpweditor@example.com
 
 Privacy Policy:
-https://mfuta1971.github.io/pweditor-next-legal/privacy-en.html
+https://mfuta1971.github.io/pweditor-next-legal/privacy-en
