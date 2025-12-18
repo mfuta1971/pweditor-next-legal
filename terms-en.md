@@ -10,7 +10,7 @@ Please review the following terms before using the App.
 
 The terms and conditions for using the App are governed by Apple’s Standard End User License Agreement (EULA), available at the following link:
 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
