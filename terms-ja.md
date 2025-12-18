@@ -10,7 +10,7 @@
 
 本アプリの利用条件は、以下の Apple 標準利用規約（EULA）に従います。
 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
