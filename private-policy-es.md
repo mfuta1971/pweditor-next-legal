@@ -37,7 +37,7 @@ Esta aplicación utiliza Google AdMob para mostrar anuncios.
 AdMob puede recopilar información como identificadores publicitarios con el fin de mostrar anuncios adecuados a los usuarios.  
 Para más información sobre el manejo de estos datos, consulte la política de privacidad de Google:
 
-https://policies.google.com/privacy
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ---
 
@@ -45,7 +45,7 @@ https://policies.google.com/privacy
 Esta aplicación utiliza Firebase Crashlytics con el fin de mejorar la estabilidad y la calidad de la aplicación.  
 La información recopilada por Crashlytics se gestiona de acuerdo con la siguiente política de privacidad:
 
-https://firebase.google.com/support/privacy
+[https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
 ---
 
