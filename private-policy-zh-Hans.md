@@ -37,7 +37,7 @@ PWEditor Next（以下简称“本应用”）尊重用户的隐私，遵守有�
 AdMob 可能会收集广告标识符等信息，以向用户展示更合适的广告。  
 有关信息的处理方式，请参阅 Google 的隐私政策：
 
-https://policies.google.com/privacy
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ---
 
@@ -45,7 +45,7 @@ https://policies.google.com/privacy
 本应用使用 Firebase Crashlytics 以提升应用的稳定性和质量。  
 Crashlytics 收集的信息将根据以下隐私政策进行管理：
 
-https://firebase.google.com/support/privacy
+[https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
 ---
 
