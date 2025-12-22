@@ -14,4 +14,4 @@
 
 ## 隐私政策
 请查看以下页面：  
-[https://mfuta1971.github.io/pweditor-next-legal/privacy-zh-Hans](https://mfuta1971.github.io/pweditor-next-legal/privacy-zh-Hans)
+[https://mfuta1971.github.io/pweditor-next-legal/privacy-policy-zh-Hans](https://mfuta1971.github.io/pweditor-next-legal/privacy-policy-zh-Hans)
