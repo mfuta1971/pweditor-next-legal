@@ -10,7 +10,7 @@ Antes de utilizar la Aplicación, revise los siguientes términos de uso.
 
 Las condiciones de uso de esta Aplicación se rigen por el siguiente Contrato de Licencia Estándar de Apple (EULA):
 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
