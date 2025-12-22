@@ -1,4 +1,4 @@
-## 🇪🇸 Política de Privacidad (Privacy Policy)
+## Política de Privacidad (Privacy Policy)
 
 # Política de Privacidad
 
