@@ -11,6 +11,6 @@ PWEditor Next をご利用いただきありがとうございます。
 ・不具合や問題のご報告
 ・機能改善のご要望
 
-■ プライバシーポリシー
-以下のページをご確認ください。
+■ プライバシーポリシー  
+以下のページをご確認ください。  
 [https://mfuta1971.github.io/pweditor-next-legal/privacy-policy-ja](https://mfuta1971.github.io/pweditor-next-legal/privacy-policy-ja)
