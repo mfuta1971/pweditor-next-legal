@@ -35,7 +35,7 @@ PWEditor Next（以下「本アプリ」）は、利用者のプライバシー�
 AdMob は、利用者に適した広告を表示する目的で、広告識別子等の情報を収集する場合があります。  
 収集される情報の取り扱いについては、以下の Google のプライバシーポリシーをご確認ください。  
 
-https://policies.google.com/privacy
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ---
 
@@ -43,7 +43,7 @@ https://policies.google.com/privacy
 本アプリでは、アプリの安定性向上および品質改善を目的として Firebase Crashlytics を利用しています。  
 Crashlytics により収集された情報は、以下のプライバシーポリシーに基づいて管理されます。  
 
-https://firebase.google.com/support/privacy
+[https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
 ---
 
