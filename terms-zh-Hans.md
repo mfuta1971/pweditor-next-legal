@@ -10,7 +10,7 @@
 
 本应用的使用条件遵循以下 Apple 标准最终用户许可协议（EULA）：
 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
